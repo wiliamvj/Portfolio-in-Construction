@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/wiliamvj/Portfolio-in-Construction/blob/master/screen.png"  width="175" alt="Portfolio in Contruction" />
+  <img src="https://github.com/wiliamvj/Portfolio-in-Construction/blob/master/screen.png" alt="Portfolio in Contruction" />
 </p>
 
 <center>
@@ -26,7 +26,9 @@ or
 
 ### `yarn`
 
-Build project
+<br>
+
+## Build project
 
 ### `npm run build` 
 or 
