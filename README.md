@@ -7,9 +7,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fae24dc5-5024-46ab-9102-baa0af33d40a/deploy-status)](https://app.netlify.com/sites/blissful-bhaskara-0e7b2c/deploys)
 
-<div align="center">
-  
 View [demo](https://portfolio-construction.netlify.app/)
+
+<div align="center">
 
 </div>
 
