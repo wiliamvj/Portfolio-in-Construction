@@ -23,18 +23,13 @@ A simple page made with a reaction creation app for your portfolio is not discon
 
 In the project directory, you can run:
 
-`npm start` 
-or 
-
-`yarn`
+`npm start` or `yarn`
 
 <br>
 
 ## Build project
 
-`npm run build` 
-or 
-`yarn build`
+`npm run build` or `yarn build`
 
 ## License
 
